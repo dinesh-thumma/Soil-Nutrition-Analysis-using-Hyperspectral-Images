@@ -1,2 +1,2 @@
-# Soil-nutrition-prediction-using-Hyperspectral-images
-Predicting the nutritional values of soil based on its hyperspectral satellite image
+# Soil-Nutrition-Analysis-using-Hyperspectral-Images
+Predicting the nutritional composition of soil based on its hyperspectral satellite images.
